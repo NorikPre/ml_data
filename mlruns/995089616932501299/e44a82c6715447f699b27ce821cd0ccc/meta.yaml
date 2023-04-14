@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/e44a82c6715447f699b27ce821cd0ccc/artifacts
+end_time: 1681395879792
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: e44a82c6715447f699b27ce821cd0ccc
+run_name: funny-shark-446
+run_uuid: e44a82c6715447f699b27ce821cd0ccc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395879574
+status: 3
+tags: []
+user_id: norik

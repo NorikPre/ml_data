@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/9d0055265db440a38db9d2f503c2a4d3/artifacts
+end_time: 1681395923048
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 9d0055265db440a38db9d2f503c2a4d3
+run_name: delightful-skink-11
+run_uuid: 9d0055265db440a38db9d2f503c2a4d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395922558
+status: 3
+tags: []
+user_id: norik

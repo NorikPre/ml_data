@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/fc41a8bde0e2460f94f9c2edd4a80285/artifacts
+end_time: 1681395966459
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: fc41a8bde0e2460f94f9c2edd4a80285
+run_name: youthful-cow-527
+run_uuid: fc41a8bde0e2460f94f9c2edd4a80285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395965538
+status: 3
+tags: []
+user_id: norik

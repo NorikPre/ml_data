@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/4e18a8fe1f144b7e8aebdf1f80af5ccf/artifacts
+end_time: 1681396040376
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 4e18a8fe1f144b7e8aebdf1f80af5ccf
+run_name: crawling-ant-986
+run_uuid: 4e18a8fe1f144b7e8aebdf1f80af5ccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396039507
+status: 3
+tags: []
+user_id: norik

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/51f39aca777848618699b529fccdf5c1/artifacts
+end_time: 1681395895416
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 51f39aca777848618699b529fccdf5c1
+run_name: big-boar-130
+run_uuid: 51f39aca777848618699b529fccdf5c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395894227
+status: 3
+tags: []
+user_id: norik

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/9990b4457a9a46c7a04e848345727ca4/artifacts
+end_time: 1681395983349
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 9990b4457a9a46c7a04e848345727ca4
+run_name: auspicious-ape-319
+run_uuid: 9990b4457a9a46c7a04e848345727ca4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395982695
+status: 3
+tags: []
+user_id: norik

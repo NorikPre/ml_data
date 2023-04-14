@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/73614e4523cf4326bfe52b51c15bf808/artifacts
+end_time: 1681395927586
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 73614e4523cf4326bfe52b51c15bf808
+run_name: popular-dove-474
+run_uuid: 73614e4523cf4326bfe52b51c15bf808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395927138
+status: 3
+tags: []
+user_id: norik

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/806d65c157104fe0becac47114fe56d7/artifacts
+end_time: 1681395888034
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 806d65c157104fe0becac47114fe56d7
+run_name: chill-lamb-359
+run_uuid: 806d65c157104fe0becac47114fe56d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395887817
+status: 3
+tags: []
+user_id: norik

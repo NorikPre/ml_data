@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/61e62bb1f2d3472da72e9407dc72dcfe/artifacts
+end_time: 1681395930359
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 61e62bb1f2d3472da72e9407dc72dcfe
+run_name: valuable-ox-951
+run_uuid: 61e62bb1f2d3472da72e9407dc72dcfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395929044
+status: 3
+tags: []
+user_id: norik

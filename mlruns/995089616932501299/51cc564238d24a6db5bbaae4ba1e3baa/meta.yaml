@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/51cc564238d24a6db5bbaae4ba1e3baa/artifacts
+end_time: 1681396057038
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 51cc564238d24a6db5bbaae4ba1e3baa
+run_name: fun-shrew-999
+run_uuid: 51cc564238d24a6db5bbaae4ba1e3baa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396054575
+status: 3
+tags: []
+user_id: norik

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/cca63de2ac514d5a81dcb0837e781cab/artifacts
+end_time: 1681395904754
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: cca63de2ac514d5a81dcb0837e781cab
+run_name: popular-carp-260
+run_uuid: cca63de2ac514d5a81dcb0837e781cab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395904410
+status: 3
+tags: []
+user_id: norik

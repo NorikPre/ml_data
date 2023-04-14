@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/7a12c25fc5fa42be8611f19aca07eaf4/artifacts
+end_time: 1681395883251
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 7a12c25fc5fa42be8611f19aca07eaf4
+run_name: welcoming-rat-780
+run_uuid: 7a12c25fc5fa42be8611f19aca07eaf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395882988
+status: 3
+tags: []
+user_id: norik

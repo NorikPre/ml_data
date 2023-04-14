@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/d0a6166d368e44359ac1689143821244/artifacts
+end_time: 1681396109756
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: d0a6166d368e44359ac1689143821244
+run_name: handsome-bat-981
+run_uuid: d0a6166d368e44359ac1689143821244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396106680
+status: 3
+tags: []
+user_id: norik

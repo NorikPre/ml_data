@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/dee5a05bc301422c9122646429103eff/artifacts
+end_time: 1681396240204
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: dee5a05bc301422c9122646429103eff
+run_name: salty-cub-364
+run_uuid: dee5a05bc301422c9122646429103eff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396236060
+status: 3
+tags: []
+user_id: norik

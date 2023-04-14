@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/5fdea7522f8042748ed864918bc1d69c/artifacts
+end_time: 1681396061713
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 5fdea7522f8042748ed864918bc1d69c
+run_name: orderly-wren-934
+run_uuid: 5fdea7522f8042748ed864918bc1d69c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396057040
+status: 3
+tags: []
+user_id: norik

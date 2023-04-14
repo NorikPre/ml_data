@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/a0529f1af0e14bd1b6f3ee8a95577812/artifacts
+end_time: 1681396114129
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: a0529f1af0e14bd1b6f3ee8a95577812
+run_name: lyrical-fawn-964
+run_uuid: a0529f1af0e14bd1b6f3ee8a95577812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396111073
+status: 3
+tags: []
+user_id: norik

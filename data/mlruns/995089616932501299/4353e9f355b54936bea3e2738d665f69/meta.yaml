@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/4353e9f355b54936bea3e2738d665f69/artifacts
+end_time: 1681395940576
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 4353e9f355b54936bea3e2738d665f69
+run_name: hilarious-trout-43
+run_uuid: 4353e9f355b54936bea3e2738d665f69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395940112
+status: 3
+tags: []
+user_id: norik

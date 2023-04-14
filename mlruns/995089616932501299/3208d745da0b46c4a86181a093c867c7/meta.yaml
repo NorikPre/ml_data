@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/3208d745da0b46c4a86181a093c867c7/artifacts
+end_time: 1681396045571
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 3208d745da0b46c4a86181a093c867c7
+run_name: capable-perch-765
+run_uuid: 3208d745da0b46c4a86181a093c867c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396043462
+status: 3
+tags: []
+user_id: norik

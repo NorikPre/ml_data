@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/e97bb2af4ede458e800dcc7d26a68164/artifacts
+end_time: 1681395914333
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: e97bb2af4ede458e800dcc7d26a68164
+run_name: upbeat-shrew-882
+run_uuid: e97bb2af4ede458e800dcc7d26a68164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395913567
+status: 3
+tags: []
+user_id: norik

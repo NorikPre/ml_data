@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/98d8ae4a9de4418388d5d682434140e5/artifacts
+end_time: 1681395882673
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 98d8ae4a9de4418388d5d682434140e5
+run_name: popular-snake-671
+run_uuid: 98d8ae4a9de4418388d5d682434140e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395882513
+status: 3
+tags: []
+user_id: norik

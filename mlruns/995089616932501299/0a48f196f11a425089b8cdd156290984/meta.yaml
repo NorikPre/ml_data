@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/0a48f196f11a425089b8cdd156290984/artifacts
+end_time: 1681395892742
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 0a48f196f11a425089b8cdd156290984
+run_name: delicate-shark-878
+run_uuid: 0a48f196f11a425089b8cdd156290984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395892229
+status: 3
+tags: []
+user_id: norik

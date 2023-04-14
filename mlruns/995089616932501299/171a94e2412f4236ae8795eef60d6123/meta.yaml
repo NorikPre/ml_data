@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/171a94e2412f4236ae8795eef60d6123/artifacts
+end_time: 1681395880114
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 171a94e2412f4236ae8795eef60d6123
+run_name: flawless-robin-368
+run_uuid: 171a94e2412f4236ae8795eef60d6123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395879891
+status: 3
+tags: []
+user_id: norik

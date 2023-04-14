@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/5408458784d146868b6d64452488f41f/artifacts
+end_time: 1681396024406
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 5408458784d146868b6d64452488f41f
+run_name: overjoyed-quail-211
+run_uuid: 5408458784d146868b6d64452488f41f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396023172
+status: 3
+tags: []
+user_id: norik

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/be59af106f3442079a2eacedd3cfd196/artifacts
+end_time: 1681395989208
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: be59af106f3442079a2eacedd3cfd196
+run_name: trusting-rook-733
+run_uuid: be59af106f3442079a2eacedd3cfd196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395987694
+status: 3
+tags: []
+user_id: norik

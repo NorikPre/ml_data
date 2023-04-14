@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/83d835ecb66d4d248c7899172b32499f/artifacts
+end_time: 1681396190769
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 83d835ecb66d4d248c7899172b32499f
+run_name: blushing-bear-222
+run_uuid: 83d835ecb66d4d248c7899172b32499f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396188952
+status: 3
+tags: []
+user_id: norik

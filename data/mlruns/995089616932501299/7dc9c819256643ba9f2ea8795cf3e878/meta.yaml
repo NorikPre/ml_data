@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/7dc9c819256643ba9f2ea8795cf3e878/artifacts
+end_time: 1681396216832
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 7dc9c819256643ba9f2ea8795cf3e878
+run_name: rogue-worm-824
+run_uuid: 7dc9c819256643ba9f2ea8795cf3e878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396214819
+status: 3
+tags: []
+user_id: norik

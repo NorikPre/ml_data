@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/d0ba389755224aa3a897bb7310333179/artifacts
+end_time: 1681396150802
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: d0ba389755224aa3a897bb7310333179
+run_name: tasteful-pig-363
+run_uuid: d0ba389755224aa3a897bb7310333179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396145730
+status: 3
+tags: []
+user_id: norik

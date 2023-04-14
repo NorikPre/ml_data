@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/8d59e199507346628349ac26ae78792f/artifacts
+end_time: 1681395878023
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 8d59e199507346628349ac26ae78792f
+run_name: sedate-doe-283
+run_uuid: 8d59e199507346628349ac26ae78792f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395877732
+status: 3
+tags: []
+user_id: norik

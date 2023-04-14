@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/86f5bc1abed147339c5248c46c0678a5/artifacts
+end_time: 1681395891045
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 86f5bc1abed147339c5248c46c0678a5
+run_name: rumbling-loon-588
+run_uuid: 86f5bc1abed147339c5248c46c0678a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395890415
+status: 3
+tags: []
+user_id: norik

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/695ea664474c486284aa1cf335da49f7/artifacts
+end_time: 1681395969466
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 695ea664474c486284aa1cf335da49f7
+run_name: mercurial-mule-355
+run_uuid: 695ea664474c486284aa1cf335da49f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395968572
+status: 3
+tags: []
+user_id: norik

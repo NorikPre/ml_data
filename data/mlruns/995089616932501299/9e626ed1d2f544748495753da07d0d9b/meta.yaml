@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/9e626ed1d2f544748495753da07d0d9b/artifacts
+end_time: 1681396184692
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 9e626ed1d2f544748495753da07d0d9b
+run_name: rambunctious-fawn-52
+run_uuid: 9e626ed1d2f544748495753da07d0d9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396182974
+status: 3
+tags: []
+user_id: norik

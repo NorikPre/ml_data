@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/2ea00a542dae439fb2b52b2f16247911/artifacts
+end_time: 1681396069608
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 2ea00a542dae439fb2b52b2f16247911
+run_name: clean-sloth-837
+run_uuid: 2ea00a542dae439fb2b52b2f16247911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396067881
+status: 3
+tags: []
+user_id: norik

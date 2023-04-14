@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/1fabf5d677ad46b1a7dea2387ac5be6d/artifacts
+end_time: 1681396202488
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 1fabf5d677ad46b1a7dea2387ac5be6d
+run_name: respected-stork-551
+run_uuid: 1fabf5d677ad46b1a7dea2387ac5be6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396200800
+status: 3
+tags: []
+user_id: norik

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/cf9df1a045734425a1c65bcf237931ec/artifacts
+end_time: 1681395894226
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: cf9df1a045734425a1c65bcf237931ec
+run_name: amazing-doe-854
+run_uuid: cf9df1a045734425a1c65bcf237931ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395893786
+status: 3
+tags: []
+user_id: norik

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/f5d8ff1e61f04d82958da5fc3da3ca6e/artifacts
+end_time: 1681395949748
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: f5d8ff1e61f04d82958da5fc3da3ca6e
+run_name: exultant-stork-907
+run_uuid: f5d8ff1e61f04d82958da5fc3da3ca6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395947408
+status: 3
+tags: []
+user_id: norik

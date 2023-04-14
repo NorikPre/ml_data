@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/197423018a204564baf69083916e6d0e/artifacts
+end_time: 1681395903197
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 197423018a204564baf69083916e6d0e
+run_name: puzzled-loon-494
+run_uuid: 197423018a204564baf69083916e6d0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395902167
+status: 3
+tags: []
+user_id: norik

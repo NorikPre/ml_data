@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/e77202efd88c4d0099ae9d812c91902a/artifacts
+end_time: 1681396258130
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: e77202efd88c4d0099ae9d812c91902a
+run_name: amazing-quail-541
+run_uuid: e77202efd88c4d0099ae9d812c91902a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396254060
+status: 3
+tags: []
+user_id: norik

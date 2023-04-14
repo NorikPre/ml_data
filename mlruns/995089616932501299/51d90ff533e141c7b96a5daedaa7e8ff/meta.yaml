@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/51d90ff533e141c7b96a5daedaa7e8ff/artifacts
+end_time: 1681396220973
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 51d90ff533e141c7b96a5daedaa7e8ff
+run_name: classy-yak-25
+run_uuid: 51d90ff533e141c7b96a5daedaa7e8ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396216834
+status: 3
+tags: []
+user_id: norik

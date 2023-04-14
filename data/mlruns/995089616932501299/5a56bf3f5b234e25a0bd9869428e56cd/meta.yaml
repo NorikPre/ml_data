@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/5a56bf3f5b234e25a0bd9869428e56cd/artifacts
+end_time: 1681396004347
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 5a56bf3f5b234e25a0bd9869428e56cd
+run_name: funny-sponge-347
+run_uuid: 5a56bf3f5b234e25a0bd9869428e56cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396002015
+status: 3
+tags: []
+user_id: norik

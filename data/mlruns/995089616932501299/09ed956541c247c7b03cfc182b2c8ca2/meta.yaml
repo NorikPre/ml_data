@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/09ed956541c247c7b03cfc182b2c8ca2/artifacts
+end_time: 1681396100903
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 09ed956541c247c7b03cfc182b2c8ca2
+run_name: hilarious-boar-934
+run_uuid: 09ed956541c247c7b03cfc182b2c8ca2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396099136
+status: 3
+tags: []
+user_id: norik

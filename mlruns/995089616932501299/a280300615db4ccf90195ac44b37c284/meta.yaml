@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/a280300615db4ccf90195ac44b37c284/artifacts
+end_time: 1681396039505
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: a280300615db4ccf90195ac44b37c284
+run_name: classy-panda-85
+run_uuid: a280300615db4ccf90195ac44b37c284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396037429
+status: 3
+tags: []
+user_id: norik

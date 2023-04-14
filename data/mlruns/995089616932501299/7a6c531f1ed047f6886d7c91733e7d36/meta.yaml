@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/7a6c531f1ed047f6886d7c91733e7d36/artifacts
+end_time: 1681396118460
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 7a6c531f1ed047f6886d7c91733e7d36
+run_name: unruly-seal-376
+run_uuid: 7a6c531f1ed047f6886d7c91733e7d36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396115426
+status: 3
+tags: []
+user_id: norik

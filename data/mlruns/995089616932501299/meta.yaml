@@ -1,0 +1,6 @@
+artifact_location: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299
+creation_time: 1681395877671
+experiment_id: '995089616932501299'
+last_update_time: 1681395877671
+lifecycle_stage: active
+name: random_forest_regressor_hyperparameter_tuning

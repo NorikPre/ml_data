@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/16756133ee8f4a2697ced60feedac28c/artifacts
+end_time: 1681395989857
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 16756133ee8f4a2697ced60feedac28c
+run_name: nosy-steed-921
+run_uuid: 16756133ee8f4a2697ced60feedac28c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395989210
+status: 3
+tags: []
+user_id: norik

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/2338ccb0019541559215d2719595d3ae/artifacts
+end_time: 1681396074321
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 2338ccb0019541559215d2719595d3ae
+run_name: puzzled-mule-629
+run_uuid: 2338ccb0019541559215d2719595d3ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396069610
+status: 3
+tags: []
+user_id: norik

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/09fd13ea86b14ef29fcc41cfe8159a94/artifacts
+end_time: 1681395916548
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 09fd13ea86b14ef29fcc41cfe8159a94
+run_name: exultant-frog-707
+run_uuid: 09fd13ea86b14ef29fcc41cfe8159a94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395915943
+status: 3
+tags: []
+user_id: norik

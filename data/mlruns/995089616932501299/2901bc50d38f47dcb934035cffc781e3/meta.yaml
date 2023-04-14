@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/2901bc50d38f47dcb934035cffc781e3/artifacts
+end_time: 1681395976133
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 2901bc50d38f47dcb934035cffc781e3
+run_name: polite-perch-721
+run_uuid: 2901bc50d38f47dcb934035cffc781e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395974598
+status: 3
+tags: []
+user_id: norik

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/7e0891be44ba4b57be9d9e5aa935300f/artifacts
+end_time: 1681395878534
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 7e0891be44ba4b57be9d9e5aa935300f
+run_name: merciful-newt-120
+run_uuid: 7e0891be44ba4b57be9d9e5aa935300f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395878425
+status: 3
+tags: []
+user_id: norik

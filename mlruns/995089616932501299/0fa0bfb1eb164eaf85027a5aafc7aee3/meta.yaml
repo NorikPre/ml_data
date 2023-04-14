@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/0fa0bfb1eb164eaf85027a5aafc7aee3/artifacts
+end_time: 1681395895943
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 0fa0bfb1eb164eaf85027a5aafc7aee3
+run_name: tasteful-crab-58
+run_uuid: 0fa0bfb1eb164eaf85027a5aafc7aee3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395895417
+status: 3
+tags: []
+user_id: norik
