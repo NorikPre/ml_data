@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/d697531f4c6743b08a60a81efc3d8601/artifacts
+end_time: 1681396048505
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: d697531f4c6743b08a60a81efc3d8601
+run_name: fortunate-chimp-383
+run_uuid: d697531f4c6743b08a60a81efc3d8601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396046465
+status: 3
+tags: []
+user_id: norik

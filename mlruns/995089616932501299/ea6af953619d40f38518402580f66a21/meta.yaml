@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/ea6af953619d40f38518402580f66a21/artifacts
+end_time: 1681396087082
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: ea6af953619d40f38518402580f66a21
+run_name: bright-sponge-614
+run_uuid: ea6af953619d40f38518402580f66a21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396082936
+status: 3
+tags: []
+user_id: norik

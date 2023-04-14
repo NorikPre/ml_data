@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/540ffe378684442d8c174bcd9e11afff/artifacts
+end_time: 1681395912172
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 540ffe378684442d8c174bcd9e11afff
+run_name: blushing-cod-134
+run_uuid: 540ffe378684442d8c174bcd9e11afff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395911405
+status: 3
+tags: []
+user_id: norik

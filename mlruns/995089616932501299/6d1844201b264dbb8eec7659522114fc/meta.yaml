@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/6d1844201b264dbb8eec7659522114fc/artifacts
+end_time: 1681395928611
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 6d1844201b264dbb8eec7659522114fc
+run_name: tasteful-steed-909
+run_uuid: 6d1844201b264dbb8eec7659522114fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395927588
+status: 3
+tags: []
+user_id: norik

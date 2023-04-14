@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/683db76b35c84fa2aa39055455cae015/artifacts
+end_time: 1681395884748
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 683db76b35c84fa2aa39055455cae015
+run_name: crawling-shrike-43
+run_uuid: 683db76b35c84fa2aa39055455cae015
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395884642
+status: 3
+tags: []
+user_id: norik

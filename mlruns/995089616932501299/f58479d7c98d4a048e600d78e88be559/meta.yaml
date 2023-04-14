@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/f58479d7c98d4a048e600d78e88be559/artifacts
+end_time: 1681395904408
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: f58479d7c98d4a048e600d78e88be559
+run_name: thundering-stag-345
+run_uuid: f58479d7c98d4a048e600d78e88be559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395903630
+status: 3
+tags: []
+user_id: norik

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/10d3240ac46645578342ee84681664b3/artifacts
+end_time: 1681395994567
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 10d3240ac46645578342ee84681664b3
+run_name: adventurous-carp-267
+run_uuid: 10d3240ac46645578342ee84681664b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395992015
+status: 3
+tags: []
+user_id: norik

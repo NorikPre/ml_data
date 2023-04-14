@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/ad385b75cc204c489b0ba6dbee448e04/artifacts
+end_time: 1681396153149
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: ad385b75cc204c489b0ba6dbee448e04
+run_name: casual-cow-122
+run_uuid: ad385b75cc204c489b0ba6dbee448e04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396150804
+status: 3
+tags: []
+user_id: norik

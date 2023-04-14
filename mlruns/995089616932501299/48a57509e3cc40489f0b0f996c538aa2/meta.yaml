@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/48a57509e3cc40489f0b0f996c538aa2/artifacts
+end_time: 1681395886672
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 48a57509e3cc40489f0b0f996c538aa2
+run_name: polite-ox-87
+run_uuid: 48a57509e3cc40489f0b0f996c538aa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395886427
+status: 3
+tags: []
+user_id: norik

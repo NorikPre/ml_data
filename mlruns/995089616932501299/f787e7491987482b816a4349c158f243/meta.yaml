@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/f787e7491987482b816a4349c158f243/artifacts
+end_time: 1681396124101
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: f787e7491987482b816a4349c158f243
+run_name: luminous-mole-231
+run_uuid: f787e7491987482b816a4349c158f243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396122796
+status: 3
+tags: []
+user_id: norik

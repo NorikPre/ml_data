@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/f6690298928c4672b4935398a9bb74f6/artifacts
+end_time: 1681395946171
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: f6690298928c4672b4935398a9bb74f6
+run_name: bedecked-boar-869
+run_uuid: f6690298928c4672b4935398a9bb74f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395943553
+status: 3
+tags: []
+user_id: norik

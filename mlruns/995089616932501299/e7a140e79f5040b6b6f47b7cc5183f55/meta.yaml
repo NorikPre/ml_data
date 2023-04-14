@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/e7a140e79f5040b6b6f47b7cc5183f55/artifacts
+end_time: 1681395885921
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: e7a140e79f5040b6b6f47b7cc5183f55
+run_name: fun-wolf-921
+run_uuid: e7a140e79f5040b6b6f47b7cc5183f55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395885708
+status: 3
+tags: []
+user_id: norik

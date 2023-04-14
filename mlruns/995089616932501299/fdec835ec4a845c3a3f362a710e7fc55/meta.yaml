@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/fdec835ec4a845c3a3f362a710e7fc55/artifacts
+end_time: 1681396046463
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: fdec835ec4a845c3a3f362a710e7fc55
+run_name: clumsy-pug-147
+run_uuid: fdec835ec4a845c3a3f362a710e7fc55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396045572
+status: 3
+tags: []
+user_id: norik

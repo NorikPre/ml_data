@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/84e7ed20d09740fb80f75af92b3df08b/artifacts
+end_time: 1681395882198
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 84e7ed20d09740fb80f75af92b3df08b
+run_name: carefree-ant-451
+run_uuid: 84e7ed20d09740fb80f75af92b3df08b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395882039
+status: 3
+tags: []
+user_id: norik

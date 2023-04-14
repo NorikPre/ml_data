@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/2d835e76614042429e4dfc57e84c8991/artifacts
+end_time: 1681396034145
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 2d835e76614042429e4dfc57e84c8991
+run_name: worried-skink-749
+run_uuid: 2d835e76614042429e4dfc57e84c8991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396033102
+status: 3
+tags: []
+user_id: norik

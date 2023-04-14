@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/154d249ca8164551bc2fa912e0262a9c/artifacts
+end_time: 1681396194972
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 154d249ca8164551bc2fa912e0262a9c
+run_name: carefree-goat-944
+run_uuid: 154d249ca8164551bc2fa912e0262a9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396190771
+status: 3
+tags: []
+user_id: norik

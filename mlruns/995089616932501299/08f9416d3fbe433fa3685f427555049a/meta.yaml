@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/norik/Desktop/Uni/Norik_Preinl_ML/mlruns/995089616932501299/08f9416d3fbe433fa3685f427555049a/artifacts
+end_time: 1681395878171
+entry_point_name: ''
+experiment_id: '995089616932501299'
+lifecycle_stage: active
+run_id: 08f9416d3fbe433fa3685f427555049a
+run_name: secretive-stoat-266
+run_uuid: 08f9416d3fbe433fa3685f427555049a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681395878025
+status: 3
+tags: []
+user_id: norik
